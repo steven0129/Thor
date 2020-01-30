@@ -1,0 +1,9 @@
+D:\Thor\Thor\obj\Debug\Thor.csprojAssemblyReference.cache
+D:\Thor\Thor\obj\Debug\Thor.Form1.resources
+D:\Thor\Thor\obj\Debug\Thor.Properties.Resources.resources
+D:\Thor\Thor\obj\Debug\Thor.csproj.GenerateResource.cache
+D:\Thor\Thor\bin\Debug\Thor.exe.config
+D:\Thor\Thor\bin\Debug\Thor.exe
+D:\Thor\Thor\bin\Debug\Thor.pdb
+D:\Thor\Thor\obj\Debug\Thor.exe
+D:\Thor\Thor\obj\Debug\Thor.pdb
